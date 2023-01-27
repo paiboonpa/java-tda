@@ -1,1 +1,1 @@
-{"Employee":{"_" : {"id":1001,"firstname":"Dang","lastname":"Red","salary":10000},"body":[1,2,3]}}
+{"Employee":{"_" : {"id":1001,"firstname":"Dang","lastname":"Red","salary":10000},"body":{a:1,b:2}}}
