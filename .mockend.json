@@ -12,7 +12,7 @@
         "maxLength": 20
       }
     },
-    "body": {"a":{"id":1001,"firstname":"Dang","lastname":"Red","salary":10000}}
+    "body": {"loremParagraphs":{"id":1001,"firstname":"Dang","lastname":"Red","salary":10000}}
     }
   },
   "Comment": {
